@@ -1,0 +1,4 @@
+# 仅测试/截图/生成报告需要(运行看板不需要)
+-r requirements.txt
+playwright==1.65.2
+pillow==13.0.0

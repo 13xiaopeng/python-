@@ -1,0 +1,12 @@
+# 虚拟环境与缓存(体积大、可由 requirements.txt 重建)
+venv/
+__pycache__/
+*.pyc
+
+# Windows 自动生成
+desktop.ini
+Thumbs.db
+
+# 本地生成的临时文件 / 提交包
+*.zip
+data/_*
